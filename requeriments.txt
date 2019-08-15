@@ -5,3 +5,6 @@ requeriments:
 -for this exercise it's necessary to import matplotlib      
   Matplotlib is a library for the generation of graphics from data contained in lists or arrays in the Python programming language and its mathematical extension NumPy
 
+Refencia:
+
+  -"Wikipedia", 2017, párr.1. Matplotlib. Wikipedia. Recuperado de https://es.wikipedia.org/wiki/Matplotlib
