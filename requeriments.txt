@@ -1,10 +1,10 @@
 "DYNAMIC SYSTEM"
 
-requeriments:
+REQUERIMENTS:
 -python"3.7"
 -for this exercise it's necessary to import matplotlib      
   Matplotlib is a library for the generation of graphics from data contained in lists or arrays in the Python programming language and its mathematical extension NumPy
 
-Refencia:
+REFERENCES:
 
-  -"Wikipedia", 2017, párr.1. Matplotlib. Wikipedia. Recuperado de https://es.wikipedia.org/wiki/Matplotlib
+  -"Wikipedia", 2017, párr.1. Matplotlib. Wikipedia. Recovered from  https://es.wikipedia.org/wiki/Matplotlib
