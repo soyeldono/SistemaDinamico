@@ -36,8 +36,9 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
-htmlcov/
+htmlcov/33
 .tox/
+readcol.py
 .coverage
 .coverage.*
 .cache
@@ -102,3 +103,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#readcol
+readcol.py
