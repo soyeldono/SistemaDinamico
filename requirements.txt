@@ -1,3 +1,9 @@
-matplotlib==3.1.0
 
+Programmed in Python3
 
+Libraires:
+
+-matplotlib==3.1.0 <it's a library <generate graphs of data contained in lists programmed in Python, work with Numpy.>
+-numpy <it's of python,it works for implementing a large data structure, multidimensional arrays and vectors.>
+-pylab <it is a conglomerate of several libraries including numpy, scipy, sympy, pandas, matplotlib, ipython. Used for mathematical calculation.>
+-sys <it is a module responsible for providing variables and functionalities, directly related to the interpreter.>
